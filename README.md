@@ -1,2 +1,2 @@
 # software-engineering-lab
-Software Engineering Lab files
+Collection of all the experiments and projects performed during software engineering lab
